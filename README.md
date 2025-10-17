@@ -6,9 +6,9 @@ This project focuses on analysing the COVID-19 pandemic using a comprehensive da
 
 ## Project Overview
 
-1. **Data Import and Cleaning**: Imported the Covid Deaths and Vaccinations tables with the correct data type for each column.
+1. **Data Import and Cleaning**: Imported the COVID-19 deaths and Vaccinations tables with the correct data type for each column.
 2. **Data Processing**: Processed data using aggregate functions, joins, and CTEs, and created views in SQL.
-3. **Data Visualisation**: Created interactive dashboards in Tableau to visualize the analysis results.
+3. **Data Visualisation**: Created interactive dashboards in Tableau to visualise the analysis results.
 
 ## Data Sources
 
