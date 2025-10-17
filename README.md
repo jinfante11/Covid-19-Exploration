@@ -1,7 +1,5 @@
 # Covid-19-Exploration
 
-# Covid-19 Data Exploration
-
 This project focuses on analysing the COVID-19 pandemic using a comprehensive dataset from Our World in Data. The analysis was performed using SQL for data processing and Tableau for visualisation.
 
 ## Project Overview
